@@ -23,7 +23,7 @@ export default function Landing() {
       >
         <h1 className="text-4xl font-bold mb-2">Welcome to GPT-Jugaad</h1>
         <p className="text-xl mb-4 text-indigo-200">
-          "Why pay for genius when you've got jugaad?"
+        Why rent a brain when you can build one?
         </p>
         <p className="text-lg mb-8 text-purple-200">
           Smuggle that premium AI experience... without smuggling anything

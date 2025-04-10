@@ -7,4 +7,7 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  server: {
+    historyApiFallback: true, // <- This fixes 404 on reload
+  }
 });
